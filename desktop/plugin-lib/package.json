@@ -13,7 +13,7 @@
     "decompress-targz": "^4.1.1",
     "decompress-unzip": "^4.0.1",
     "fs-extra": "^8.1.0",
-    "live-plugin-manager": "^0.14.1",
+    "live-plugin-manager": "^0.15.0",
     "semver": "^7.3.2",
     "tmp": "^0.2.1"
   },
