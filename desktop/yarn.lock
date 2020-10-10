@@ -7983,10 +7983,10 @@ linked-list@0.1.0:
   resolved "https://registry.yarnpkg.com/linked-list/-/linked-list-0.1.0.tgz#798b0ff97d1b92a4fd08480f55aea4e9d49d37bf"
   integrity sha1-eYsP+X0bkqT9CEgPVa6k6dSdN78=
 
-live-plugin-manager@^0.14.1:
-  version "0.14.1"
-  resolved "https://registry.yarnpkg.com/live-plugin-manager/-/live-plugin-manager-0.14.1.tgz#34b6bb8f3d2062ec2557c857ca028fea9dc2b6db"
-  integrity sha512-bRFh5xn1PEYrwxoOhQ4k8gsh8eh4cRMbXmV/YefV4Xs2E6wuXLF+e51gsXjyim7DquEWsiFuoKK+RSQ387PuHA==
+live-plugin-manager@^0.15.1:
+  version "0.15.1"
+  resolved "https://registry.yarnpkg.com/live-plugin-manager/-/live-plugin-manager-0.15.1.tgz#d268dd976e93d1ee0516dd90cc30999ec0d8ed35"
+  integrity sha512-nhQmx0JEq7blNtQh3+w6to9x4tU1geY2RUQcvFvCJA1V2RnLjLC9dQlj1Hhr5tu8OpMDfeZkA9OIZyIs26q85Q==
   dependencies:
     "@types/debug" "^4.1.5"
     "@types/fs-extra" "^8.1.0"
